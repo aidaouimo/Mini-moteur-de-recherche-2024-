@@ -268,4 +268,4 @@ Ce projet est distribué sous licence **MIT**. Voir le fichier `LICENSE` pour pl
 
 **Mohamed Aidaoui**  
 Étudiant Ingénieur Informatique — ESIEE Paris / Université Gustave Eiffel  
-[LinkedIn](https://linkedin.com) · [Portfolio](https://portfolio.com) · aidaoui31@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohamed-aidaoui/) · [Portfolio](https://69b63f26831756000857e346--extraordinary-eclair-12e880.netlify.app/) · aidaoui31@gmail.com
