@@ -60,7 +60,6 @@ mini-search-engine/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<votre-username>/mini-search-engine.git
 cd mini-search-engine
 
 # (Optionnel) environnement virtuel
