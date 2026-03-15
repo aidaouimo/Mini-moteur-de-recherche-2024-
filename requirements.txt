@@ -1,0 +1,3 @@
+# Runtime (zero external deps for core engine — stdlib only)
+# Optional: install pytest for running tests
+pytest>=7.0
